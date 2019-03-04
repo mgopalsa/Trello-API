@@ -48,4 +48,12 @@ Actions which can be performed on each item include:
 •	Labels can be renamed and assigned to cards. Each card can only have one label
 
 
+## Unit Test Framework
+Test cases are written for the following using the Django APIClient/APITestcase Frameworks.
+1) Creation of Boards
+2) Creation of Cards
+3) Creation of Lists
+4) Creation of Labels
+4) Get the Boards/Cards and Lists URL successfully.
+5) GET The labels URL successfully
 
