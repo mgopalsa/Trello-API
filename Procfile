@@ -1,1 +1,1 @@
-web: gunicorn trello:app
+web: gunicorn trelloapps:app
