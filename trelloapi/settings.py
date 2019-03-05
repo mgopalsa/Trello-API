@@ -34,6 +34,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'rest_framework',
     'trello',
+    'rest_framework_swagger',
    'rest_framework.authtoken',
     'django.contrib.admin',
     'django.contrib.auth',
