@@ -34,8 +34,9 @@ DATABASES = {
 > 5. http://localhost:8000/login/
 
 ## SWAGGER API DOC
-  http://localhost:8000/swagger-docs/
-  http://localhost:8000/docs/
+ > 1. http://localhost:8000/swagger-docs/
+  
+ > 2.  http://localhost:8000/docs/
   
 ## Detailed Description
 Trello consists of the following constructs:
