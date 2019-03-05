@@ -33,6 +33,10 @@ DATABASES = {
 > 4. http://localhost:8000/labels/
 > 5. http://localhost:8000/login/
 
+## SWAGGER API DOC
+  http://localhost:8000/swagger-docs/
+  http://localhost:8000/docs/
+  
 ## Detailed Description
 Trello consists of the following constructs:
 •	Boards, which can contain zero to many Lists
@@ -49,6 +53,8 @@ Actions which can be performed on each item include:
 
 
 ## Unit Test Framework
+To run the tests ==> $ python manage.py test
+
 Test cases are written for the following using the Django APIClient/APITestcase Frameworks.
 1) Creation of Boards
 2) Creation of Cards
